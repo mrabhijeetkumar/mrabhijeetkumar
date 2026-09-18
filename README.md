@@ -1,15 +1,11 @@
 # 💫 About Me:
 Hi 👋, I'm a **B.Tech Computer Science & Engineering (Machine Learning) student at Lovely Professional University**, passionate about **software development, problem-solving, and building practical applications**.<br><br>
-
 💻 I work with **Python, Java, C++, Kotlin, JavaScript, and SQL**, with a strong interest in **Data Structures & Algorithms, OOP, DBMS, and Software Development**.<br><br>
-
 🤖 I'm exploring **Machine Learning, Artificial Intelligence, Data Analysis, and Backend Development**, while working on projects to strengthen my programming and development skills.<br><br>
-
 🛠️ **Tools & Technologies:** Git • GitHub • VS Code • Android Studio • IntelliJ IDEA • MongoDB • MySQL • REST APIs<br><br>
-
 🚀 My goal is to become a skilled **Software Developer**, build meaningful projects, contribute to **Open Source**, and continuously learn new technologies.<br><br>
-
 📚 **Interests:** Software Development • Machine Learning • AI • DSA • Backend Development • Databases • Problem Solving • Open Source
+
 
 
 
