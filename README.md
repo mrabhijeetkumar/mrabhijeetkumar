@@ -1,5 +1,16 @@
 # 💫 About Me:
-Hi 👋, I'm a B.Tech Computer Science & Engineering (Machine Learning) student at Lovely Professional University, passionate about software development, problem-solving, and building practical technology solutions.<br><br>💻 I work with **Python, Java, C++, Kotlin, SQL, and JavaScript**, and have a strong interest in **Data Structures & Algorithms, Object-Oriented Programming, Database Management, and Software Development**.<br><br>🤖 I'm also exploring **Machine Learning, Data Analysis, Artificial Intelligence, and Python-based ML projects**, while continuously improving my understanding of algorithms, system design, and real-world application development.<br><br>🛠️ I'm familiar with technologies and tools such as **Git, GitHub, Android Studio, IntelliJ IDEA, VS Code, MongoDB, MySQL, and REST APIs**, and I enjoy working on projects that help me strengthen both my programming and development skills.<br><br>🚀 My goal is to grow as a **Software Developer**, contribute to meaningful projects, write clean and efficient code, and continuously learn new technologies. I use GitHub to document my projects, experiment with new ideas, and share my learning journey.<br><br>📚 **Interests:** Software Development • Machine Learning • Artificial Intelligence • DSA • Backend Development • Database Systems • Problem Solving • Open Source<br>
+Hi 👋, I'm a **B.Tech Computer Science & Engineering (Machine Learning) student at Lovely Professional University**, passionate about **software development, problem-solving, and building practical applications**.<br><br>
+
+💻 I work with **Python, Java, C++, Kotlin, JavaScript, and SQL**, with a strong interest in **Data Structures & Algorithms, OOP, DBMS, and Software Development**.<br><br>
+
+🤖 I'm exploring **Machine Learning, Artificial Intelligence, Data Analysis, and Backend Development**, while working on projects to strengthen my programming and development skills.<br><br>
+
+🛠️ **Tools & Technologies:** Git • GitHub • VS Code • Android Studio • IntelliJ IDEA • MongoDB • MySQL • REST APIs<br><br>
+
+🚀 My goal is to become a skilled **Software Developer**, build meaningful projects, contribute to **Open Source**, and continuously learn new technologies.<br><br>
+
+📚 **Interests:** Software Development • Machine Learning • AI • DSA • Backend Development • Databases • Problem Solving • Open Source
+
 
 
 ## 🌐 Socials:
